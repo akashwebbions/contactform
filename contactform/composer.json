@@ -1,14 +1,14 @@
 {
-    "name": "samuelayo/contactform",
+    "name": "webbions/contactform",
     "description": "A contact form package for laravel",
     "authors": [{
-        "name": "samuel ogundipe",
-        "email": "ayoogundipe2005@gmail.com"
+        "name": "akash webbions",
+        "email": "akash@webbions.com"
     }],
     "require": {},
     "autoload": {
         "psr-4": {
-            "Samuelayo\\Contactform\\": "src/"
+            "Webbions\\Contactform\\": "src/"
         }
     }
 }
